@@ -1,0 +1,36 @@
+input {
+    padding: 7px;
+    height: 30px;
+    }
+    
+select {
+    padding: 10px;
+    height: 48px;
+    }
+    
+button {
+    padding: 10px;
+    height: 48px;
+    }
+
+fieldset{
+    margin-bottom: 20px;
+}
+
+#warningOne{
+    color: rgb(255, 0, 0);
+    display: inline;
+    position: absolute;
+    margin-left: 9px;
+}
+
+#warningTwo{
+    color: rgb(255, 0, 0);
+    display: inline;
+    position: absolute;
+    margin-left: 276px;
+}
+div{
+    margin-top: 7px;
+    height: 8px;
+}
